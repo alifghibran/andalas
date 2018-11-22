@@ -1,0 +1,437 @@
+body {
+	margin: 0 auto;
+	width: 100%;
+	font-family: Avenir Next LT Pro;
+	padding-bottom: 1%;
+}
+#navbar {
+	width: 100%;
+	margin-top: 3%;
+}
+.nama {
+	font-family: Tw Cen MT;
+	font-size: 30px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: 1.2;
+	letter-spacing: normal;
+	text-align: left;
+	color: #ff9000;
+	margin-left: 5%;
+}
+#navbar a {
+	text-decoration: none;
+	padding-left: 30px;
+}
+.home {
+	margin-left: 22%;
+	font-size: 16px;
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: 1.33;
+	letter-spacing: normal;
+	text-align: left;
+	color: #484a57;
+}
+.home:hover {
+	color: #ff9000;
+	transition: 0.4s;
+}
+.menu {
+	font-size: 16px;
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: 1.33;
+	letter-spacing: normal;
+	text-align: left;
+	color: #484a57;
+}
+.menu:hover {
+	color: #ff9000;
+	transition: 0.4s;
+}
+.service {
+	font-size: 16px;
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: 1.33;
+	letter-spacing: normal;
+	text-align: left;
+	color: #ff9000;	
+}
+.service:hover {
+	color: #484a57;
+	transition: 0.4s;	
+}
+.about {
+	font-size: 16px;
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: 1.33;
+	letter-spacing: normal;
+	text-align: left;
+	color: #484a57;
+}
+.about:hover {
+	color: #ff9000;
+	transition: 0.4s;
+}
+
+#kami {
+	width: 100%;
+	margin-top: 5%;
+}
+.judul {
+	width: 30%;
+	font-size: 46px;
+	font-weight: 600;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: 1.8;
+	letter-spacing: normal;
+	text-align: left;
+	color: #4a495b;
+	margin-left: 7%;
+}
+.judul span {
+	font-size: 46px;
+	font-weight: 600;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: 1.8;
+	letter-spacing: normal;
+	text-align: left;
+	color: #f89307;
+}
+.sub {
+	width: 32.5%;
+	font-size: 24px;
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: 1.8;
+	letter-spacing: 0.4px;
+	text-align: left;
+	color: #4a495b;
+	margin-left: 7%;
+}
+#kami img {
+	float: right;
+	width: 600px;
+	height: 500px;
+	margin-top: -26%;
+}
+
+#rayakan {
+	width: 100%;
+	margin-top: 25%;
+}
+.pattren {
+	float: right;
+}
+.bg-foto {
+	width: 560px;
+	height: 680px;
+	background-color: #f6922b;
+}
+.bg-foto img {
+	margin-top: 18%;
+}
+.konten {
+	width: 33.5%;
+	float: right;
+	font-size: 34px;
+	font-weight: 600;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: 1.7;
+	letter-spacing: 0.6px;
+	text-align: left;
+	color: #4a495b;
+	margin-right: 2%;
+	margin-top: 20%;
+}
+.konten span {
+	float: right;
+	font-size: 34px;
+	font-weight: 600;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: 1.7;
+	letter-spacing: 0.6px;
+	text-align: left;
+	color: #f89307;	
+	margin-right: 10px;
+}
+.subkonten {
+	width: 32%;
+	position: absolute;
+	margin-left: 55.3%;
+	margin-top: 30%;
+	font-size: 24px;
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: 1.67;
+	letter-spacing: 0.4px;
+	text-align: left;
+	color: #4a495b;
+}
+
+#andalas {
+	width: 100%;
+	margin-top: 10%;
+}
+.bg-foto2 {
+	float: right;
+	width: 560px;
+	height: 680px;
+	background-color: #f6922b;
+}
+.bg-foto2 img {
+	float: right;
+	margin-top: 18%;
+}
+.siap {
+	width: 33.5%;
+	float: left;
+	font-size: 34px;
+	font-weight: 600;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: 1.7;
+	letter-spacing: 0.6px;
+	text-align: left;
+	color: #4a495b;
+	margin-top: 10%;
+	margin-left: 7%;
+}
+.siap span {
+	float: left;
+	font-size: 34px;
+	font-weight: 600;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: 1.7;
+	letter-spacing: 0.6px;
+	text-align: left;
+	color: #f89307;	
+	margin-right: 15px;	
+}
+.sembari {
+	width: 32%;
+	font-size: 22px;
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: 1.67;
+	letter-spacing: 0.4px;
+	text-align: left;
+	color: #4a495b;
+	margin-left: 7%;
+}
+.pattren2 {
+	margin-top: 5%;
+}
+
+#pesen {
+	width: 100%;
+	margin-top: 10%;
+}
+#pesen h1 {
+	font-size: 34px;
+	font-weight: bold;
+	line-height: 0.83;
+	letter-spacing: 0.8px;
+	text-align: left;
+	color: #f6922b;
+	margin-left: 7%;
+	padding-bottom: 60px;
+}
+.bg {
+	width: 560px;
+	height: 880px;
+	background-color: #f6922b;
+}
+.isi {
+	width: 45%;
+	font-size: 62px;
+	font-weight:bold;
+	line-height: 1.5;
+	letter-spacing: 2px;
+	text-align: left;
+	color: #fafafa;
+	margin-left: 27%;
+	padding-top: 58%;
+}
+.isi-pesanan {
+	float: right;
+	margin-top: -62%;
+	margin-right: 7%;
+	width: 45%;
+}
+.kirim {
+	float: right;
+	width: 120px;
+	height: 46px;
+	cursor: pointer;
+	margin-top: 5%;
+	margin-right: 10%;
+	border-radius: 5px;
+	letter-spacing: 2;
+	border: none;
+	outline: none;
+	font-size: 14px;
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	letter-spacing: 0.2px;
+	color: #fafafa;
+	background-color: #484e5f;
+}
+.kirim:hover {
+	background-color: #49485F;
+	transition: 0.4s;
+}
+.jdl {
+	font-size: 34px;
+	font-weight: 600;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: 1.8;
+	letter-spacing: 0.5px;
+	text-align: center;
+	color: #484e5f;
+}
+.lb {
+	font-size: 16px;
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: 4.5;
+	letter-spacing: 0.2px;
+	text-align: left;
+	color: #484e5f;
+	margin-left: 10%;
+}
+.in {
+	width: 75%;
+	height: 50px;
+	margin-top: -20px;
+	border-radius: 10px;
+	border: 1px solid #484e5f;
+	background-color: #fafafa;
+	outline: none;
+	padding-left: 5%
+}
+
+#footer	{
+	width: 100%;
+	margin-top: 10%;
+}
+.nama-ft {
+	font-family: Tw Cen MT;
+	font-size: 30px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: 1.2;
+	letter-spacing: normal;
+	text-align: left;
+	color: #ff9000;
+	margin-left: 7%;
+}
+#footer a {
+	text-decoration: none;
+}
+.alamat {
+	font-size: 14px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: 1.38;
+	letter-spacing: normal;
+	text-align: left;
+	color: #484a57;
+	margin-left: 7%;
+	padding-top: 20px;
+}
+.notel {
+	font-size: 14px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: 1.38;
+	letter-spacing: normal;
+	text-align: left;
+	color: #484a57;
+	margin-left: 7%;
+}
+.sosial {
+	font-size: 16px;
+	font-weight: 600;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: 1.38;
+	letter-spacing: normal;
+	text-align: left;
+	color: #484a57;
+	margin-left: 40%;
+	margin-top: -9.2%;
+}
+.sos {
+	font-size: 14px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: 1.38;
+	letter-spacing: normal;
+	text-align: left;
+	color: #484a57;
+	margin-left: 40%;
+}
+
+.ex {
+	font-size: 16px;
+	font-weight: 600;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: 1.38;
+	letter-spacing: normal;
+	text-align: left;
+	color: #484a57;
+	margin-left: 57%;
+	margin-top: -7.2%;
+}
+.ex-item {
+	font-size: 14px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: 1.38;
+	letter-spacing: normal;
+	text-align: left;
+	color: #484a57;
+	margin-left: 57%;
+}
+#footer hr {
+	width: 75%;
+	margin-top: 8%;
+	color: rgba(112, 112, 112, 0.49)
+}
+.akhir {
+	font-size: 14px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: 1.38;
+	letter-spacing: normal;
+	text-align: center;
+	color: #484a57;
+	margin-top: 2%;
+}
